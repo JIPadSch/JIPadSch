@@ -1,4 +1,4 @@
-### Buenos dias 👋 Soy Juan Ignacio Padrón Schneider, un estudiante de la Licenciatura en Ciencias de la Computación en la UNComa 📚
+### Buenos dias 👋 Soy Juan Ignacio Padrón Schneider, estudiante de la Licenciatura en Ciencias de la Computación en la UNComa 📚
 ## Soy de General Roca, Río Negro, Argentina
 
 # Contacto 📫
